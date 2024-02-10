@@ -1,0 +1,11 @@
+com\sreekanth\controller\ProductController.class
+com\sreekanth\service\ProductService.class
+com\sreekanth\SpringBootProductAppnApplication.class
+com\sreekanth\service\UserServiceImpl.class
+com\sreekanth\controller\UserController.class
+com\sreekanth\model\Product.class
+com\sreekanth\service\ProductServiceImp.class
+com\sreekanth\repository\UserRepository.class
+com\sreekanth\repository\ProductRepo.class
+com\sreekanth\service\UserService.class
+com\sreekanth\model\User.class
