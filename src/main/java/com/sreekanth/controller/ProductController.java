@@ -19,7 +19,6 @@ public class ProductController {
 	 * @param file
 	 * @return
 	 */
-	
 	@PostMapping("/upload")
 	public String fileUpload(@RequestParam MultipartFile file){
 		return service.uploadFile(file);
